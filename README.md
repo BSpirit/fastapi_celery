@@ -20,5 +20,5 @@ docker compose up
 
 *The app listens on port 8000.*
 
-Once the app is running, the automatic **interactive API documentation** can be accessed here:  http://127.0.0.1:8000/docs (provided by [Swagger UI](https://swagger.io/tools/swagger-ui/))
-The interactive API documentation can be used to test the application.
+Once the app is running, the automatic **interactive API documentation** (provided by [Swagger UI](https://swagger.io/tools/swagger-ui/)) can be accessed here: http://127.0.0.1:8000/docs 
+The **interactive API documentation** can be used to test the application.
